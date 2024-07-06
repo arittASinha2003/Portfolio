@@ -325,7 +325,7 @@ span {
 }
 
 .progress-line.javascript span {
-    width: 60%;
+    width: 70%;
 }
 
 .progress-line.python span {
@@ -362,7 +362,7 @@ span {
 }
 
 .progress-line.javascript span::after {
-    content: "60%";
+    content: "70%";
 }
 
 .progress-line.python span::after {
